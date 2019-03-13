@@ -16,9 +16,10 @@ Directories:
 - `data/training/negative`: Clips of negative samples
 - `data/training/positive`: Clips of positive samples
 
+
+The positive samples also include a json file with the class labels for each sample.  The label for the negative samples could just be treated as 'negative' or an equivalent.
+
 ## Some helpful links
-
-
 
 Idea:
 
